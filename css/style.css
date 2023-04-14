@@ -1,0 +1,56 @@
+body{
+    background-image: url("/images/pizarron.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    color: wheat;
+    text-align: center;
+}
+h2{
+    color: wheat;
+    text-align: center;
+}
+h3{
+    color: wheat;
+    text-align: center;
+}
+p {
+    font-size: 1rem;
+    text-align: right;
+    margin-right: 1cm;
+  }
+
+  a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: rgba(255, 255, 255, 0.959) ;
+    font-weight: bold;
+  }
+
+.form {
+    margin: 8rem; 
+  }
+
+.table{
+    margin-left: 2cm;
+    width: 30cm;
+    padding:0%;
+    text-align: center;
+    text-justify: auto;
+}
+
+div{
+  padding: 5px;
+}
+
+label{
+  font-size: large;
+  align-items: center;
+  font-style:italic;
+  color: antiquewhite;
+}
+  
